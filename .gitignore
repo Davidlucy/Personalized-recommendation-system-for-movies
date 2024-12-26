@@ -3,3 +3,14 @@
 /workspace.xml
 /data/
 /model/
+/models/model.pkl
+/models/model.joblib
+/models/model.joblib.data
+/models/model.joblib.meta
+/models/model.joblib.dtypes
+/models/model.joblib.info
+/models/model.joblib.n_features_in_
+/models/model.joblib.feature_names_in_
+/models/model.joblib.feature_names_out_
+/models/model.joblib.feature_names_in_
+/models/model.joblib.feature_names_out_
